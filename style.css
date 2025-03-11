@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(224, 224, 224);
+    background-color: rgb(156, 156, 156);
 }
 
 #topo{
@@ -8,19 +8,48 @@ body{
 }
 
 #navbar{
-    background-color: rgb(175, 175, 175);
+    background-color: rgb(255, 255, 255);
 }
 
+.sumario{
+    margin: 10px;
+}
+
+.title{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+
+.color{
+    margin: 2px;
+    padding: 250px;
+    background-color: black;
+}
+
+section{
+    display: flex;
+}
+
+
 .botaos{
+    background-color: white;
     margin: 2px;
     display: flex;
-    padding: 10px;
 }
 
 .separa{
     margin: 2px;
     background-color: gray;
     padding: 2px
+}
+.separa2{
+    margin: 3px;
+    padding: 2px
+}
+
+.grande{
+    width: 70px;
 }
 
 
@@ -29,4 +58,18 @@ body{
     background-image: url(Navbar/LinhaAmarela.png);
     background-repeat: repeat;
     background-size: 98px
+}
+
+.vazio{
+    width:70px;
+}
+
+
+td{
+    width: 200px;
+    background-color: rgb(211, 211, 211);
+}
+
+.repositores{
+    background-color: rgb(129, 129, 129);
 }
