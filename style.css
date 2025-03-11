@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(224, 224, 224);
+}
+
+#topo{
+    margin: 10px;
+    padding: 5px;
+}
+
+#navbar{
+    background-color: rgb(175, 175, 175);
+}
+
+.botaos{
+    margin: 2px;
+    display: flex;
+    padding: 10px;
+}
+
+.separa{
+    margin: 2px;
+    background-color: gray;
+    padding: 2px
+}
+
+
+.amarelo{
+    padding: 10px;
+    background-image: url(Navbar/LinhaAmarela.png);
+    background-repeat: repeat;
+    background-size: 98px
+}
